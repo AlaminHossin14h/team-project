@@ -6,7 +6,7 @@
 
     <head>
         <title>Task Manager with PHP and MySQL</title>
-        <link rel="stylesheet" href="<?php echo SITEURL; ?>css/style.css" />
+        <link rel="stylesheet" href="<?php echo SITEURL; ?> "styles.css" />
     </head>
     
     <body>
